@@ -1,5 +1,5 @@
 class TestComponent extends React.Component {
-    render = () => {
+    render () {
         return (
             <span>Hello World</span>
         );
