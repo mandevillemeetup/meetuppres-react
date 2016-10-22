@@ -46,7 +46,7 @@ class PokeCard extends React.Component {
         )
     }
 
-    render = () => {
+    render () {
         return (
             <main style={this.styles.main}>
                 <div style={this.styles.centered}>
